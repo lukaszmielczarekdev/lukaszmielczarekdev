@@ -7,4 +7,20 @@
 #### Hi 👋, I'm Łukasz
 ##### A web developer from Poland
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### Recent projects
+
+<img width="220px" alt="iw" src="https://user-images.githubusercontent.com/88770213/219366910-a6b9772d-2c20-4bc5-8ede-b6f0f229a295.png"> | <img width="220px" alt="ge" src="https://user-images.githubusercontent.com/88770213/216424986-96c906ec-45da-46e1-aba5-69209f0506ef.png"> | <img width="220px" alt="dd" src="https://user-images.githubusercontent.com/88770213/216427389-38df8ac8-a000-43ee-aab5-d9c6f1351568.png">| <img width="220px" alt="ri" src="https://user-images.githubusercontent.com/88770213/216428680-2711b5a7-6df0-4331-8afc-3ec96a43222a.png"> | <img width="220px" alt="wyin" src="https://user-images.githubusercontent.com/88770213/219350745-d32a54d4-5aeb-43c5-b13e-35d05a74f5b1.png">
+:-------------------------:|:-------------------------:|:-------------------------: |:-------------------------: |:-------------------------:
+[Imagewave](https://imagewave.pages.dev "Imagewave")  |  [Geoevents](https://geoevents.pages.dev "Geoevents") | [Daily Diet](https://daily-diet.pages.dev "Daily Diet") |[Rocket English](https://rocket-english.pages.dev "Rocket English")  |[What Year Is Now?](https://app-ci.spio-wyin.workers.dev "What Year Is Now?") 
+
+ 
+<!-- [Imagewave](https://imagewave.pages.dev "Imagewave")
+
+[Geoevents](https://geoevents.pages.dev "Geoevents")
+
+[Daily Diet](https://daily-diet.pages.dev "Daily Diet")
+
+[Rocket English](https://rocket-english.pages.dev "Rocket English")
+
+[What Year Is Now?](https://app-ci.spio-wyin.workers.dev "What Year Is Now?") -->
+
