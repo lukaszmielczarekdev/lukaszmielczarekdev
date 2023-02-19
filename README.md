@@ -5,7 +5,7 @@
 ![Jest](https://img.shields.io/badge/Jest-913E4B?style=flat&logo=jest&badgeColor=913E4B) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
 #### Hi 👋, I'm Łukasz
-##### A web developer from Poland
+##### A developer from Poland
 
 #### Recent projects
 
@@ -13,14 +13,5 @@
 :-------------------------:|:-------------------------:|:-------------------------: |:-------------------------: |:-------------------------:
 [Imagewave](https://imagewave.pages.dev "Imagewave")  |  [Geoevents](https://geoevents.pages.dev "Geoevents") | [Daily Diet](https://daily-diet.pages.dev "Daily Diet") |[Rocket English](https://rocket-english.pages.dev "Rocket English")  |[What Year Is Now?](https://app-ci.spio-wyin.workers.dev "What Year Is Now?") 
 
- 
-<!-- [Imagewave](https://imagewave.pages.dev "Imagewave")
 
-[Geoevents](https://geoevents.pages.dev "Geoevents")
-
-[Daily Diet](https://daily-diet.pages.dev "Daily Diet")
-
-[Rocket English](https://rocket-english.pages.dev "Rocket English")
-
-[What Year Is Now?](https://app-ci.spio-wyin.workers.dev "What Year Is Now?") -->
 
